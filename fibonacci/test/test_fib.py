@@ -8,8 +8,7 @@ Copyright (c) 2009 __MyCompanyName__. All rights reserved.
 """
 
 import unittest
-
-from fibonacci import fib
+from fib import Fibonacci
 
 class TestFib(unittest.TestCase):
     def setUp(self):
